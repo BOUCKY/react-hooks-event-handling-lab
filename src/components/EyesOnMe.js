@@ -7,7 +7,7 @@ function EyesOnMe(){
                 onFocus={() => console.log("Good!")}
                 onBlur={() => console.log("Hey! Eyes on me!")}
             >
-                Eyes on Me
+                Eyes on me
             </button>
         </div>
     )
